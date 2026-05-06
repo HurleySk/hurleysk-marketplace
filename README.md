@@ -13,7 +13,7 @@ A Claude Code marketplace for XrmToolBox, Dynamics 365 / Dataverse development, 
 | **sherlock** | `migration-analyst`, `lineage-tracer`, `mapping-guide`, `pipeline-review` | ETL/data migration analysis — mapping document generation, data lineage tracing with column-level precision, and multi-agent pipeline review orchestration. Works with any ETL stack. |
 | **cicd-safety** | `cicd-fortify`, `guard`, `safety-hooks` | CI/CD safety assessment, pre-commit guard reviews, and production safety hooks for Claude Code. |
 | **refresh** | `refresh` | One-shot refresh of Claude Code marketplaces, plugin updates, and session reload. |
-| **gantt** | `plan`, `schedule`, `sync` | Project management — conversational planning with iterative discovery, deterministic date sequencing (weekend and US federal holiday aware), dependency tracking, critical path analysis, and MS Project sync via mpp-mcp. |
+| **gantt** | `plan`, `schedule`, `sync`, `excel` | Project management — conversational planning with iterative discovery, deterministic date sequencing (weekend and US federal holiday aware), dependency tracking, critical path analysis, MS Project sync via mpp-mcp, and Excel export/import with Gantt chart visualization via excel-mcp. |
 
 ## Installation
 
