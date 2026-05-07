@@ -61,7 +61,7 @@
         "url": "https://github.com/HurleySk/skill-engine.git"
       },
       "description": "Hook-driven skill activation and guardrail enforcement for Claude Code projects. Reads skill-rules.json to suggest relevant skills on prompt and enforce guardrails on file edits.",
-      "version": "4.0.3"
+      "version": "4.0.4"
     },
     {
       "name": "refresh",
