@@ -88,7 +88,7 @@
         "url": "https://github.com/HurleySk/eBay-analysis-toolkit"
       },
       "description": "eBay resale profit analysis - evaluate listings for buy/resell profitability with fee calculation, time-to-sell prediction, and configurable thresholds.",
-      "version": "0.1.0"
+      "version": "0.2.0"
     },
     {
       "name": "resume-coach",
