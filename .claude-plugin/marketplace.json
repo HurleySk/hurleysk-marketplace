@@ -89,6 +89,15 @@
       },
       "description": "eBay resale profit analysis - evaluate listings for buy/resell profitability with fee calculation, time-to-sell prediction, and configurable thresholds.",
       "version": "0.1.0"
+    },
+    {
+      "name": "resume-coach",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HurleySk/resume-coach.git"
+      },
+      "description": "Collaborative resume building, tailoring, review, interview prep, and Google Drive organization.",
+      "version": "1.0.0"
     }
   ]
 }
