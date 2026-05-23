@@ -101,9 +101,12 @@
     },
     {
       "name": "parfumo",
-      "version": "1.0.0",
-      "description": "Parfumo fragrance data tools - search, details, rankings, and similar fragrances",
-      "source": "https://github.com/HurleySk/parfumo-mcp"
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HurleySk/parfumo-mcp.git"
+      },
+      "description": "Parfumo fragrance data tools - search, details, rankings, and similar fragrances via live scraping",
+      "version": "1.0.0"
     }
   ]
 }
