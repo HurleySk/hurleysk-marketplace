@@ -98,6 +98,12 @@
       },
       "description": "Collaborative resume building, tailoring, review, interview prep, and Google Drive organization.",
       "version": "1.0.0"
+    },
+    {
+      "name": "parfumo",
+      "version": "1.0.0",
+      "description": "Parfumo fragrance data tools - search, details, rankings, and similar fragrances",
+      "source": "https://github.com/HurleySk/parfumo-mcp"
     }
   ]
 }
