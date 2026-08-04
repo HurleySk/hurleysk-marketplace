@@ -115,7 +115,7 @@
         "url": "https://github.com/HurleySk/terse.git"
       },
       "description": "Enforces concise responses and ultra-minimal code comments. Adaptive verbosity correction plus write-time rejection of noise comments.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
