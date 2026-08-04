@@ -107,6 +107,15 @@
       },
       "description": "Parfumo fragrance data tools - search, details, rankings, and similar fragrances via live scraping",
       "version": "1.0.0"
+    },
+    {
+      "name": "terse",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HurleySk/terse.git"
+      },
+      "description": "Enforces concise responses and ultra-minimal code comments. Adaptive verbosity correction plus write-time rejection of noise comments.",
+      "version": "1.0.0"
     }
   ]
 }
